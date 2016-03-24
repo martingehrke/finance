@@ -10,8 +10,8 @@
 >--Defence of the Government of the Church of England, 1587, by Dr. John Bridges  
   
 ~    
->Interest on debt grows without rain. 
->-– Yiddish
+>Interest on debt grows without rain.  
+>-–Yiddish
   
 ~    
 >The safe way to double your money is to fold it over once and put it in your pocket.  
