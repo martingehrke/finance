@@ -11,8 +11,12 @@
   
 ~    
 >Interest on debt grows without rain.  
->-–Yiddish
+>--Yiddish
   
 ~    
 >The safe way to double your money is to fold it over once and put it in your pocket.  
 >--Frank Hubbard
+
+~  
+>The ancients who wished to illustrate illustrious virtue throughout the Kingdom, first ordered well their own states. Wishing to order well their states, they first regulated their families. Wishing to regulate their families, they first cultivated their persons. Wishing to cultivate their persons, they first rectified their hearts.  
+>--[Confucius](https://en.wikiquote.org/wiki/Confucius)
