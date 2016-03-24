@@ -16,4 +16,4 @@ Neat little sayings you can print and hang up for motivation. I need to figure o
 I am certainly not a wordsmith, so someone else has always said it better. 
 
 ## [Conquer your Behavior](https://github.com/martingehrke/finance/blob/master/behavior.md)
-Don't get in the way of your own success.
+We have met the enemy and he is us. Don't get in the way of your own success.
