@@ -12,10 +12,17 @@
 * Rich Habits: The Daily Success Habits of Wealthy Individuals, by Thomas Coreley
 * Rich Dad, Poor Dad by Robert Kiyosaki
 * Become Your Own Financial Advisor, by Warren Ingram
+* The Total Money Makeover, by Dave Ramsey
+* I Will Teach You to be Rich, by Ramit Sethi
+* Your Money or Your Life, by Vicki Robin and Joe Dominguez
+* [The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon_(book)) by George S. Clason
+* Get a Financial Life, by Beth Kobliner
 
 ### Other lists of books
 These lists may have redundant entries  
 * Reddit [/r/financialindependence books](https://www.reddit.com/r/financialindependence/wiki/books)  
+* Reddit [/r/personalfinance books](https://www.reddit.com/r/personalfinance/wiki/readinglist)
+* [FinancialLife.org](http://financiallife.org) has a great list of [books about investing by experience level ](http://financinglife.org/your-money-matters-learning-center/books-about-investing/) (beginner/intermediate/advanced)
 
 ## Online Resources
 These may be referenced or subpages specifically mentioned in other parts
