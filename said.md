@@ -13,7 +13,15 @@ from [Dilbert and the Way of the Weasel](http://smile.amazon.com/exec/obidos/ASI
 7. Put six months worth of expenses in a money-market account  
 8. Take whatever money is left over and invest 70% in a stock index fund and 30% in a bond fund through any discount broker and never touch it until retirement  
 
-Some claim Adams deserves a Nobel Price in economics for this.
+**Commentary**  
+Some claim Adams deserves a Nobel Price in economics for this. I would order things a bit differently:  
+7. Put enough in an emergency fund to cover any unexpected expenses.  
+2. Pay off your credit cards. There are many ways to do this but only a few make sense to me. Use the [debt snowball](https://en.wikipedia.org/wiki/Debt-snowball_method) or pay the highest interest first (AKA [debt avalanche](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=debt%20avalanche)).  
+4. Invest up to the company match in your 401k if you have one, if you don't, skip this for now.  
+7. Now go back and squirrel away six months of expenses in a CD ladder or something safe.  
+4. Now, max out your 401k  
+5. Max out your IRA  
+The rest can be done simultaneously.  
 
 ## Warren Buffet
 Mr. Buffet probably deserves his own page, until then...  
