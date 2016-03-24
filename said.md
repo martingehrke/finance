@@ -56,3 +56,16 @@ Take this to heart
 2. invest with balance and diversification,  
 3. minimize cost, and  
 4. stay disciplined over the long term.  
+
+### [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
+**[Watch the video](https://www.bogleheads.org/wiki/Video:Bogleheads%C2%AE_investment_philosophy)**  
+1. Develop a workable plan  
+2. Invest early and often  
+3. Never bear too much or too little risk  
+4. Never try to time the market  
+5. Use index funds when possible  
+6. Keep costs low  
+7. Diversify  
+8. Minimize taxes  
+9. Keep it simple  
+10. Stay the course  
