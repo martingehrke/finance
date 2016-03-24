@@ -31,3 +31,28 @@ Mr. Buffet probably deserves his own page, until then...
 **On Taking Risks**: “Never test the depth of a river with both feet.”  
 **On Investments**: “Do not put all your eggs in one basket.”  
 **On Expectations**: “Honesty is a very expensive gift. Do not expect it from cheap people.”  
+
+## John C. Bogle & Boglehead Crowd-wisdom
+This section will also warrant its own page in the near future.
+
+### The Twelve Pillars of Wisdom
+<https://www.bogleheads.org/wiki/The_twelve_pillars_of_wisdom>
+* Pillar 1. Investing Is Not Nearly as Difficult as It Looks
+* Pillar 2. When All Else Fails, Fall Back on Simplicity 
+* Pillar 3. Time Marches On 
+* Pillar 4. Nothing Ventured, Nothing Gained 
+* Pillar 5. Diversify, Diversify, Diversify 
+* Pillar 6. The Eternal Triangle 
+* Pillar 7. The Powerful Magnetism of the Mean 
+* Pillar 8. Do Not Overestimate Your Ability to Pick Superior Equity Mutual Funds, nor Underestimate Your Ability to Pick Superior Bond and Money Market Funds 
+* Pillar 9. You May Have a Stable Principal Value or a Stable Income Stream, But You May Not Have Both 
+* Pillar 10. Beware of "Fighting the Last War" 
+* Pillar 11. You Rarely, If Ever, Know Something The Market Does Not 
+* Pillar 12. Think Long-Term 
+
+### [Vanguard's investment philosophy](https://www.bogleheads.org/wiki/Vanguard%27s_investment_philosophy)
+Take this to heart  
+1. Define clear goals,  
+2. invest with balance and diversification,  
+3. minimize cost, and  
+4. stay disciplined over the long term.  
