@@ -1,2 +1,2 @@
-# finance
-Collection of information and snippets about personal finance and beyond
+# Finance
+Collection of information and snippets about personal finance and beyond.  
