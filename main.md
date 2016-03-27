@@ -26,7 +26,9 @@ These lists may have redundant entries
 * The Simple Dollar [ranks PF books from best to worst](http://www.thesimpledollar.com/26-personal-finance-books-ranked-from-best-to-worst/)  
  
 ### Don't read these books
-* to be filled in
+There may be some redeeming qualities to these books, like laughin your ass off at their absurdity, other than that avoid them.
+* anything written by Jim Cramer (or said, sold, mentioned by him for that matter)
+* any suggestions?
 
 ## Online Resources
 These may be referenced or subpages specifically mentioned in other parts
