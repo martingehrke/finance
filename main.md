@@ -23,6 +23,10 @@ These lists may have redundant entries
 * Reddit [/r/financialindependence books](https://www.reddit.com/r/financialindependence/wiki/books)  
 * Reddit [/r/personalfinance books](https://www.reddit.com/r/personalfinance/wiki/readinglist)
 * [FinancialLife.org](http://financiallife.org) has a great list of [books about investing by experience level ](http://financinglife.org/your-money-matters-learning-center/books-about-investing/) (beginner/intermediate/advanced)
+* The Simple Dollar [ranks PF books from best to worst](http://www.thesimpledollar.com/26-personal-finance-books-ranked-from-best-to-worst/)  
+ 
+### Don't read these books
+* to be filled in
 
 ## Online Resources
 These may be referenced or subpages specifically mentioned in other parts
