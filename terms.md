@@ -18,7 +18,8 @@ After he substantiated his financial success with actual numbers, this Texan tol
   
 Definition: Full of big talk but lacking action, power, or substance; pretentious[2](#citations)
 
-
+## Personal Savings Rate
+The Financial Independence sub-reddit has a decent [short intro](https://www.reddit.com/r/financialindependence/wiki/faq#wiki_how_do_i_calculate_my_savings_rate.3F). But the idea really is that they more you save, the sooner you can retire. Mr. Money Mustache does a great job of explaining it: [The Shockingly Simple Math Behind Early Retirement](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/).
 
 
 # Citations
