@@ -22,6 +22,6 @@ Definition: Full of big talk but lacking action, power, or substance; pretentiou
 
 
 # Citations
-[1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>
-[2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>
-[3]<https://www.nytimes.com/books/first/s/stanley-millionaire.html>
+[1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
+[2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>  
+[3]<https://www.nytimes.com/books/first/s/stanley-millionaire.html>  
