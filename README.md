@@ -17,3 +17,6 @@ I am certainly not a wordsmith, so someone else has always said it better.
 
 ## [Conquer your Behavior](https://github.com/martingehrke/finance/blob/master/behavior.md)
 We have met the enemy and he is us. Don't get in the way of your own success.
+  
+## [Terms to know]((https://github.com/martingehrke/finance/blob/master/terms.md)
+Know the lingo so you too can be like the cool kids.
