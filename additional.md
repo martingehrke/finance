@@ -6,3 +6,14 @@ This is especially pertinent for online services. Take facebook. Facebook is fre
 
 ## Switch to a Credit Union
 Banks are businesses and have shareholders or owners. Credit Unions by law are owned by the members. By opening an account at a credit union, you are becoming a shareholder with voting rights. See <http://www.asmarterchoice.org/> for more quantitative reasoning.  
+
+## Prepare Monthly/Yearly Financial Reports
+You can't know how to get to your financial goals if you don't know where you are starting. 
+Create a template for monthly and/or yearly financial reports. Here are some basic questions you should be able to answer.  
+1. What is your net worth?  
+2. How much did you make last month/year? before & after taxes  
+3. How much did you spend last month/year?  
+4. What are your top 10 expenses?  
+5. How much did you pay in taxes?  
+6. What is your savings rate?  
+7. Where is your money? break it down into types of accounts (retirement, cash, 529, non-retirement, real estate)  
