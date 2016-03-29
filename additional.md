@@ -17,3 +17,7 @@ Create a template for monthly and/or yearly financial reports. Here are some bas
 5. How much did you pay in taxes?  
 6. What is your savings rate?  
 7. Where is your money? break it down into types of accounts (retirement, cash, 529, non-retirement, real estate)  
+
+## Fighting Lifestyle Inflation
+This will also help prepare you for a reduction in income.  
+Make yourself a list of re-occuring monthly and yearly expenses. Are all those expenses mandatory? The bi-weekly maid service is lifestyle inflation. Do you really need the latest iPhone every year?
