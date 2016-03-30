@@ -24,8 +24,14 @@ The Financial Independence sub-reddit has a decent [short intro](https://www.red
 ## Lifestyle Inflation
 >Increasing your spending when your income goes up.[4](#citations)
 
+## Sunk Cost Fallacy
+> Sunk costs are expenses which cannot be recovered once they have been incurred. An example of sunk cost would be advertising expenses -- once a company pays for such an expense, there is no way undo it. Decision theory suggests that sunk costs should not be taken into account while making a decision. [5](#citations)
+  
+Also take a look at [You Are Not So Smart: The Sunk Cost Fallacy](http://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/)
+
 # Citations
 [1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
 [2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>  
 [3]<https://www.nytimes.com/books/first/s/stanley-millionaire.html>  
 [4]<http://www.investopedia.com/terms/l/lifestyle-inflation.asp>
+[5](http://www.wikinvest.com/wiki/Sunk_Cost)
