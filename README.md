@@ -5,9 +5,10 @@ These days finding information is not difficult, Google has given us that. The n
 
 **What do you need to know about personal finance?**
 
-## [Main](https://github.com/martingehrke/finance/blob/master/main.md)
+## [Books](https://github.com/martingehrke/finance/blob/master/books.md)
 This is where all the info is for now, eventually it may split out to separate pages. For now this has books and other resources.
 
+## [Other Online Resources](https://github.com/martingehrke/finance/blob/master/links.md)
 
 ## [Proverbs](https://github.com/martingehrke/finance/blob/master/proverbs.md)
 Neat little sayings you can print and hang up for motivation. I need to figure out a way to make that easy.  
