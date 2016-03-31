@@ -2,8 +2,7 @@
 
 **Everything in [Investopedia: Financial Concepts](http://www.investopedia.com/university/concepts/)**
 
-Table of Contents
-=================
+# Table of Contents
   * [Economic Outpatient Care](#economic-outpatient-care)
   * [Under/Average/Prodigious Accumulator of Wealth](#underaverageprodigious-accumulator-of-wealth)
   * [Big Hat, No Cattle](#big-hat-no-cattle)
