@@ -1,5 +1,7 @@
 # Terms to know
 
+**Everything in [Investopedia: Financial Concepts](http://www.investopedia.com/university/concepts/)**
+
 ## Economic Outpatient Care
 From: The Millionaire Next Door
 >Economic Outpatient Care (EOC) is a term used to express when an affluent parent provides money to an adult child. [1](#citations)
