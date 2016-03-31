@@ -32,7 +32,8 @@ The Financial Independence sub-reddit has a decent [short intro](https://www.red
 Also take a look at [You Are Not So Smart: The Sunk Cost Fallacy](http://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/)
 
 ## FI/RE
-FI/RE stand for Financial Independence/Early Retirement. FI/ER doesn't look as cool as FI/RE. I guess it could be Retire Early. >It is typically defined as having enough income (from investments, passive businesses, real estate, etc) to pay for your reasonable living expenses for the rest of your life. [6](#citations)
+FI/RE stand for Financial Independence/Early Retirement. FI/ER doesn't look as cool as FI/RE. I guess it could be Retire Early.   
+>It is typically defined as having enough income (from investments, passive businesses, real estate, etc) to pay for your reasonable living expenses for the rest of your life. [6](#citations)
 
 # Citations
 [1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
