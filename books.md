@@ -4,6 +4,7 @@
 ##Suggested Reading
 ### My Books
 (books in my personal finance library or I recommend)
+* [Thinking, Fans and Slow](http://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman) by the Noble Prize winner Daniel Kahneman.
 * The Bogleheads' Guide to Investing
 * The Millionaire Next Door: The Surprising Secreates of America's Wealthy
 
