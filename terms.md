@@ -2,6 +2,17 @@
 
 **Everything in [Investopedia: Financial Concepts](http://www.investopedia.com/university/concepts/)**
 
+Table of Contents
+=================
+  * [Economic Outpatient Care](#economic-outpatient-care)
+  * [Under/Average/Prodigious Accumulator of Wealth](#underaverageprodigious-accumulator-of-wealth)
+  * [Big Hat, No Cattle](#big-hat-no-cattle)
+  * [Personal Savings Rate](#personal-savings-rate)
+  * [Lifestyle Inflation](#lifestyle-inflation)
+  * [Sunk Cost Fallacy](#sunk-cost-fallacy)
+  * [FI/RE](#fire)
+  * [Citations](#citations)
+
 ## Economic Outpatient Care
 From: The Millionaire Next Door
 >Economic Outpatient Care (EOC) is a term used to express when an affluent parent provides money to an adult child. [1](#citations)
