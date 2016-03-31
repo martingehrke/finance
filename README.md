@@ -1,6 +1,10 @@
 # Finance
 Collection of information and snippets about personal finance and beyond.  
 
+## Table of Contents
+TOC goes here, when I can figure out how to generate it.
+
+## Introduction
 These days finding information is not difficult, Google has given us that. The new issue is what information do you need? If you don't know what you need to know, it doesn't matter how easy it is to find. The aim of this "site" is to answer that for you: **What do you need to know about personal finance?**
 
 What is the first step?  
