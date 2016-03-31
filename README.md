@@ -22,6 +22,9 @@ We have met the enemy and he is us. Don't get in the way of your own success.
 ## [Terms to know](https://github.com/martingehrke/finance/blob/master/terms.md)
 Know the lingo so you too can be like the cool kids.
 
+## [The Elephant in the Room](https://github.com/martingehrke/finance/blob/master/elephant.md)
+Financial education is not working. There is no panacea to our financial illiteracy. 
+
 ## [Tools](https://github.com/martingehrke/finance/blob/master/tools.md)
 It’s Dangerous to go Alone! Take This...
 
