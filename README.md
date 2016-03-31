@@ -13,9 +13,7 @@ There are varied opinions on that. If you want to keep your momentum going, take
 I am certainly not a wordsmith, so someone else has always said it better.
 
 ## [Books](https://github.com/martingehrke/finance/blob/master/books.md)
-This is where all the info is for now, eventually it may split out to separate pages. For now this has books and other resources.
-
-## [Other Online Resources](https://github.com/martingehrke/finance/blob/master/links.md)
+This is where all the info is for now, eventually it may split out to separate pages. For now this has books and other resources.  
 
 ## [Proverbs](https://github.com/martingehrke/finance/blob/master/proverbs.md)
 Neat little sayings you can print and hang up for motivation. I need to figure out a way to make that easy.  
@@ -33,4 +31,7 @@ Financial education is not working. There is no panacea to our financial illiter
 It’s Dangerous to go Alone! Take This...
 
 ## [Additional Unsolicited Advice](https://github.com/martingehrke/finance/blob/master/additional.md)
-Advice is free  
+Advice is free, everything else costs ya'
+
+## [Other Online Resources](https://github.com/martingehrke/finance/blob/master/links.md)
+Eclectic links to sites with which to further your info-smörgåsbord. 
