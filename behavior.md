@@ -1,6 +1,8 @@
 # Behavior
 We have met the enemy and he is us. Conquering your behavior is a must for the successful investor.  
 
+**REA** [Thinking, Fans and Slow](http://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman) by the Noble Prize winner Daniel Kahneman. It will come up again and again as you read about Behavior Finance. 
+
 ## Links
 * Bogleheads wiki on [Behavior Pitfalls](https://www.bogleheads.org/wiki/Behavioral_pitfalls)
 * Investopedia on [Understanding Investor Behavior](http://www.investopedia.com/articles/05/032905.asp)
