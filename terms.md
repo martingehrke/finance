@@ -45,10 +45,15 @@ Also take a look at [You Are Not So Smart: The Sunk Cost Fallacy](http://youaren
 FI/RE stand for Financial Independence/Early Retirement. FI/ER doesn't look as cool as FI/RE. I guess it could be Retire Early.   
 >It is typically defined as having enough income (from investments, passive businesses, real estate, etc) to pay for your reasonable living expenses for the rest of your life. [6](#citations)
 
+## Working Capital
+>Working capital is a measure of both a company's efficiency and its short-term financial health. Working capital is calculated as: Working Capital = Current Assets - Current Liabilities. [7](#citations)  
+I need to write up more about this.
+
 # Citations
 [1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
 [2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>  
 [3]<https://www.nytimes.com/books/first/s/stanley-millionaire.html>  
 [4]<http://www.investopedia.com/terms/l/lifestyle-inflation.asp>
-[5](http://www.wikinvest.com/wiki/Sunk_Cost)
-[6](https://www.reddit.com/r/financialindependence/wiki/faq)
+[5]<http://www.wikinvest.com/wiki/Sunk_Cost>
+[6]<https://www.reddit.com/r/financialindependence/wiki/faq>
+[7]<http://www.investopedia.com/terms/w/workingcapital.asp>
