@@ -1,15 +1,15 @@
 # They Said It Better
 A conglomeration of info and quips to help you keep focus, scope, and context.
 
-Table of Contents
-=================
+#Table of Contents
 
   * [Unified Theory of Everything Financial by Scott Adams](#unified-theory-of-everything-financial-by-scott-adams)
   * [Warren Buffet](#warren-buffet)
   * [John C. Bogle & Boglehead Crowd-wisdom](#john-c-bogle--boglehead-crowd-wisdom)
-    * [The Twelve Pillars of Wisdom](#the-twelve-pillars-of-wisdom)
-    * [Vanguard's investment philosophy](#vanguards-investment-philosophy)
-    * [Bogleheads® investment philosophy](#bogleheads-investment-philosophy)
+   * [The Twelve Pillars of Wisdom](#the-twelve-pillars-of-wisdom)
+   * [Vanguard's investment philosophy](#vanguards-investment-philosophy)
+   * [Bogleheads® investment philosophy](#bogleheads-investment-philosophy)
+  * [Quora: A Bunch of Advice](#quora-a-bunch-of-advice)
 
 ## Unified Theory of Everything Financial by Scott Adams
 from [Dilbert and the Way of the Weasel](http://smile.amazon.com/exec/obidos/ASIN/006052149X/dogberrypatch-20)
