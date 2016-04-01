@@ -35,7 +35,7 @@ Financial education is not working. There is no panacea to our financial illiter
 It’s Dangerous to go Alone! Take This...
 
 ## [Additional Unsolicited Advice](https://github.com/martingehrke/finance/blob/master/additional.md)
-Advice is free, everything else costs ya'
+Advice is free, everything else costs ya'. Apparently I do have something novel to add that someone hasn't already said in a better way.
 
 ## [Other Online Resources](https://github.com/martingehrke/finance/blob/master/links.md)
 Eclectic links to sites with which to further your info-smörgåsbord. 
