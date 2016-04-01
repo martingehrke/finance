@@ -79,3 +79,6 @@ Take this to heart
 8. Minimize taxes  
 9. Keep it simple  
 10. Stay the course  
+
+## Quora: A Bunch of Advice
+[What is the single, most effective piece of financial advice you've ever received?](https://www.quora.com/What-is-the-single-most-effective-piece-of-financial-advice-youve-ever-received)
