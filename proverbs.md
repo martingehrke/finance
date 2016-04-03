@@ -20,3 +20,7 @@
 ~  
 >The ancients who wished to illustrate illustrious virtue throughout the Kingdom, first ordered well their own states. Wishing to order well their states, they first regulated their families. Wishing to regulate their families, they first cultivated their persons. Wishing to cultivate their persons, they first rectified their hearts.  
 >--[Confucius](https://en.wikiquote.org/wiki/Confucius)
+  
+~
+>Those who think they know never learn.  
+--from the Tao Te Ching
