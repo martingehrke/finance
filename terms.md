@@ -59,8 +59,8 @@ This can send you down the rabbit hole of [Modern Portfolio Theory (MPT)](https:
 [1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
 [2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>  
 [3]<https://www.nytimes.com/books/first/s/stanley-millionaire.html>  
-[4]<http://www.investopedia.com/terms/l/lifestyle-inflation.asp>
-[5]<http://www.wikinvest.com/wiki/Sunk_Cost>
-[6]<https://www.reddit.com/r/financialindependence/wiki/faq>
-[7]<http://www.investopedia.com/terms/w/workingcapital.asp>
-[8]<https://en.wikipedia.org/wiki/Efficient_frontier>
+[4]<http://www.investopedia.com/terms/l/lifestyle-inflation.asp>  
+[5]<http://www.wikinvest.com/wiki/Sunk_Cost>  
+[6]<https://www.reddit.com/r/financialindependence/wiki/faq>  
+[7]<http://www.investopedia.com/terms/w/workingcapital.asp>  
+[8]<https://en.wikipedia.org/wiki/Efficient_frontier>  
