@@ -49,6 +49,12 @@ FI/RE stand for Financial Independence/Early Retirement. FI/ER doesn't look as c
 >Working capital is a measure of both a company's efficiency and its short-term financial health. Working capital is calculated as: Working Capital = Current Assets - Current Liabilities. [7](#citations)  
 I need to write up more about this.
 
+## Efficient Frontier
+>The efficient frontier (or portfolio frontier) is a concept in modern portfolio theory introduced by Harry Markowitz and others in 1952. It is the set of portfolios each with the feature that no other portfolio exists with a higher expected return but with the same standard deviation of return. [8](#citations)  
+
+This can send you down the rabbit hole of [Modern Portfolio Theory (MPT)](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Efficient Market Hypothesis (EMH)](http://www.investopedia.com/terms/e/efficientmarkethypothesis.asp). Something you should do eventually, when you have a lot of time.
+
+
 # Citations
 [1]<https://en.wikipedia.org/wiki/The_Millionaire_Next_Door>  
 [2]<https://en.wiktionary.org/wiki/all_hat_and_no_cattle>  
@@ -57,4 +63,4 @@ I need to write up more about this.
 [5]<http://www.wikinvest.com/wiki/Sunk_Cost>
 [6]<https://www.reddit.com/r/financialindependence/wiki/faq>
 [7]<http://www.investopedia.com/terms/w/workingcapital.asp>
-
+[8]<https://en.wikipedia.org/wiki/Efficient_frontier>
