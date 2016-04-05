@@ -10,6 +10,8 @@
   * [Lifestyle Inflation](#lifestyle-inflation)
   * [Sunk Cost Fallacy](#sunk-cost-fallacy)
   * [FI/RE](#fire)
+  * [Working Capital](#working-captial)
+  * [Efficient Frontier](#efficient-frontier)
   * [Citations](#citations)
 
 ## Economic Outpatient Care
