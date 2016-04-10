@@ -31,6 +31,9 @@ Know the lingo so you too can be like the cool kids.
 ## [The Elephant in the Room](https://github.com/martingehrke/finance/blob/master/elephant.md)
 Financial education is not working. There is no panacea to our financial illiteracy. 
 
+## [Security](https://github.com/martingehrke/finance/blob/master/security.md)
+Protect thyself! Proactively!
+
 ## [Tools](https://github.com/martingehrke/finance/blob/master/tools.md)
 It’s Dangerous to go Alone! Take This...
 
