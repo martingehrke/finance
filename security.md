@@ -18,6 +18,6 @@ I absolutely set this up for every account that allows it. Usually it means you 
 
 The big CON from this is that finance aggregation sites like mint.com don't always work with 2FA. I would prefer security over convenience. 
 
-## Social Engineering
-
 ## Counter-espionage 
+
+Sites often use a security question in case you need to reset your password. "Your mother's maiden name" is a common one. But this type of information can be trivial to get. Nothing says you can't use the wrong answer to these questions. So if a malicious party actually does know your mother's maiden name, it does them no good. Just make sure you remember your false answer (by noting it down in your password manager). 
