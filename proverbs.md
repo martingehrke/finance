@@ -24,3 +24,9 @@
 ~
 >Those who think they know never learn.  
 --from the Tao Te Ching
+
+~
+> No one says on their deathbead, "I wish I had worked more." --unattributed  
+
+~
+> No one is going to stand up at your funeral and say, "She had a really expensive couch and great shows." --<http://www.minimisetomaximize.com>
