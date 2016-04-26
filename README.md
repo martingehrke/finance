@@ -13,6 +13,8 @@ Congratulations! You've already taken the first step by wanting to learn and see
 What is the next step?  
 There are varied opinions on that. If you want to keep your momentum going, take a look at Scott Adams' advice in the first link. Otherwise I would suggest you read everything and anything about personal finance. **Educate thyself!!**
 
+Also this [Personal Income Spending Flowchart](http://i.imgur.com/qaXYcwz.jpg) is sorta helpful
+
 ## [They said it better](https://github.com/martingehrke/finance/blob/master/said.md)
 I am certainly not a wordsmith, so someone else has always said it better.
 
