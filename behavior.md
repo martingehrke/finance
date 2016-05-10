@@ -20,3 +20,12 @@ This applies to personal finance like everything else. You are not as smart as y
 ## Online Courses (MOOCs, etc)
 * I have not watched these but a Prof Keen from the University of Western Sydney has [a youtube playlist of Behavioral Finance Lectures](https://www.youtube.com/playlist?list=PL0A21A329D01D0CFE&feature=plcp)
 * [Financial Markets](http://oyc.yale.edu/economics/econ-252-11) from Yale covers Behavioral Finance
+
+## 5 Big Reasons Why It's So Hard to Make Financial Progress
+The is an article over at [lifehacker](http://lifehacker.com/five-big-reasons-why-it-s-so-hard-to-make-financial-pro-1775599606).  
+1. Spending Money Offers Positive Short-Term Feelings, While Saving Money Does Not  
+2. Financial Goals Typically Take a Long Time to Achieve  
+3. Financial Goals Are Often Very Passive After the Initial Actions  
+4. Financial Goals Can Seem Impossible to Reach  
+5. Life Always Seems to Intervene  
+Don't just read this bullet points but click the link and read the article, it is worth the time.
