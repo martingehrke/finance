@@ -21,6 +21,7 @@ Create a template for monthly and/or yearly financial reports. Here are some bas
 5. How much did you pay in taxes?  
 6. What is your savings rate?  
 7. Where is your money? break it down into types of accounts (retirement, cash, 529, non-retirement, real estate)  
+[How Do I Money](http://howdoimoney.com/can-answer-ten-easiest-money-questions-ever/) has a very similar list of financial questions to which you should alwasys know the answer.
 
 ## Fight Lifestyle Inflation
 This will also help prepare you for a reduction in income.  
