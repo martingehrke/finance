@@ -16,6 +16,7 @@ This applies to personal finance like everything else. You are not as smart as y
 * Personal Finance sub-reddit's [wiki entry on Psychology](https://www.reddit.com/r/personalfinance/wiki/psychology)  
 ** Gambling, Compulsive spending, etc.
 * Investopedia has a great series on [Behavioral Finance](http://www.investopedia.com/university/behavioral_finance/) that includes information on fallacies
+* Leave it to Lifehacker to piggy back on my idea: [The Cognitive Biases That Lead to Bad Money Decisions](http://twocents.lifehacker.com/the-cognitive-biases-that-lead-to-bad-money-decisions-1777406419)
 
 ## Online Courses (MOOCs, etc)
 * I have not watched these but a Prof Keen from the University of Western Sydney has [a youtube playlist of Behavioral Finance Lectures](https://www.youtube.com/playlist?list=PL0A21A329D01D0CFE&feature=plcp)
