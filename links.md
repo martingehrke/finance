@@ -5,3 +5,4 @@ These may be referenced or subpages specifically mentioned in other parts
 * [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page)
 * [PDF] [If You Can: How Millennials Can Get Rich Slowly](http://www.etf.com/docs/IfYouCan.pdf), by William J. Bernstein
 * [Top 100 Financial Advice Blogs](http://www.wisebread.com/top-100-most-popular-personal-finance-blogs/topics/financial-advice)
+* [Investing for Geeks](https://training.kalzumeus.com/newsletters/archive/investing-for-geeks)
