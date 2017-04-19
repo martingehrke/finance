@@ -82,3 +82,11 @@ Take this to heart
 
 ## Quora: A Bunch of Advice
 [What is the single, most effective piece of financial advice you've ever received?](https://www.quora.com/What-is-the-single-most-effective-piece-of-financial-advice-youve-ever-received)
+
+## Misc Articles
+[Let me convince you to save money](http://www.collaborativefund.com/blog/let-me-convince-you-to-save-money/)
+1. the value of wealth is relative to what you need
+2. Past a certain level of income, what you need is just what sits below your ego. 
+3. Savings is a hedge against life’s inevitable ability to surprise the hell out of you at the worst possible moment.
+4. But the best reason to save is to gain control over your time.
+5. That flexibility and control over your time is an unseen return on wealth.
