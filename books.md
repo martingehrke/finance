@@ -6,7 +6,7 @@
 (books in my personal finance library or I recommend)
 * [Thinking, Fast and Slow](http://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman) by the Noble Prize winner Daniel Kahneman.
 * The Bogleheads' Guide to Investing
-* The Millionaire Next Door: The Surprising Secreates of America's Wealthy
+* The Millionaire Next Door: The Surprising Secrets of America's Wealthy
 
 ### Other Frequently Recommended Books
 * The White Coat Investor: A Doctor's Guide to Personal Finance and Investing, by James M Dahle
