@@ -7,7 +7,9 @@ It is very important that you keep your money safe. But hiding it in a matress m
 The most common passwords are "123456" and "password." Pathetic. [Lifehacker posts regularly about the most common passwords.](http://lifehacker.com/the-top-10-usernames-and-passwords-hackers-try-to-get-i-1762638243) Really the best solution is to not use easily rememberable passwords, but ones that are really hard to remember and have nothing to do with you personally. To do this you need to use a Password Vault.
 
 * [KeePass](http://keepass.info/) (has an android client!)
+* [1Password](https://1password.com/)
 * [LastPass](https://lastpass.com/)
+* [BitWarden](https://bitwarden.com/)
 
 I used LastPass until they, themselves, had a security breach! You can read up on their differences etc here (again) at Lifehacker: [Five Best Password Managers](http://lifehacker.com/5529133/five-best-password-managers).
 
