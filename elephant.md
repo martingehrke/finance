@@ -1,5 +1,5 @@
 # The Elephant in the Room
-There are ample resources on the internet to education even the most financially ignorant person. Then why do we still have a financial literacy problem? 
+There are ample resources on the internet to educate even the most financially ignorant person. Then why do we still have a financial literacy problem? 
 
 ## If they only taught Financial literacy in school...  
 I can't tell you that I would have been better off having received financial education in high school. Would I have paid attention? Would I have realized the step up it could have provided me? Perhaps. I wish my younger self would. 
