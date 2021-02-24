@@ -7,6 +7,5 @@ These tools will help you with your planning.
 * Networthify.com's [Early Retirement Calculator](https://networthify.com/calculator/earlyretirement)
 
 ## Widely Used Software
-Only a N00b doesn't know about this stuff  
 * <http://www.mint.com>
 * [YNAB](http://www.youneedabudget.com/) aka You Need A Budget  
